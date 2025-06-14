@@ -1,3 +1,5 @@
+#  Weather Forecast Api
+
 ☀️🌧️ Weather Forecast Web App
 🌤️ Real-Time Weather Forecast Detail Using API
 The Weather Forecast Detail using API project is a sleek and modern 🌐 web app that fetches and displays real-time weather data for any city in the world 🌍. It uses powerful third-party APIs like OpenWeatherMap to provide users with detailed, accurate weather updates based on live input.
